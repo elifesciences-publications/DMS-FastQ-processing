@@ -1,3 +1,7 @@
+This code is associated with the paper from Chen et al., "Comprehensive exploration of the translocation, stability and substrate recognition requirements in VIM-2 lactamase". eLife, 2020. http://doi.org/10.7554/eLife.56707
+
+
+
 # DMS-FastQ-processing
 A set of scripts for analyzing deep sequencing data for deep mutational scanning (DMS). 
   
